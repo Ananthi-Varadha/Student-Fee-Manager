@@ -1,0 +1,1 @@
+Automated Fee Management System: A GUI-based application with a strict data structure for consistency, automating balance calculation, due date handling, payment tracking, and custom PDF report generation, while ensuring security with restricted access to application-generated Excel files and sending automated email reminders for pending dues.
